@@ -1,0 +1,1280 @@
+fileFormatVersion: 2
+guid: df60966421f02314d8b5d1b435542911
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8446293173635309412
+    second: PlatformAtlas_0
+  - first:
+      213: -9077387002245431468
+    second: PlatformAtlas_1
+  - first:
+      213: 8186982500077026284
+    second: PlatformAtlas_2
+  - first:
+      213: 7892155740632380217
+    second: PlatformAtlas_3
+  - first:
+      213: -1621471547528506240
+    second: PlatformAtlas_4
+  - first:
+      213: -4176322572915600537
+    second: PlatformAtlas_5
+  - first:
+      213: 8705420654224784805
+    second: PlatformAtlas_6
+  - first:
+      213: -3051083424928063680
+    second: PlatformAtlas_7
+  - first:
+      213: 6305051344791584673
+    second: PlatformAtlas_8
+  - first:
+      213: -1121542182564103596
+    second: PlatformAtlas_9
+  - first:
+      213: -4301896905050570265
+    second: PlatformAtlas_10
+  - first:
+      213: 716351180340180112
+    second: PlatformAtlas_11
+  - first:
+      213: 2285738175588149969
+    second: PlatformAtlas_12
+  - first:
+      213: 8578214412691481540
+    second: PlatformAtlas_13
+  - first:
+      213: 955602225540745984
+    second: PlatformAtlas_14
+  - first:
+      213: -1786374128751631709
+    second: PlatformAtlas_15
+  - first:
+      213: -6696929033133078708
+    second: PlatformAtlas_16
+  - first:
+      213: -5060970170029445850
+    second: PlatformAtlas_17
+  - first:
+      213: -2948510252318939660
+    second: PlatformAtlas_18
+  - first:
+      213: -3195818735026433022
+    second: PlatformAtlas_19
+  - first:
+      213: 599607392688169176
+    second: PlatformAtlas_20
+  - first:
+      213: -7542780938798048750
+    second: PlatformAtlas_21
+  - first:
+      213: 1739478586819864576
+    second: PlatformAtlas_22
+  - first:
+      213: 5189268389186711998
+    second: PlatformAtlas_23
+  - first:
+      213: -7118730399445499777
+    second: PlatformAtlas_24
+  - first:
+      213: 4796555668269414520
+    second: PlatformAtlas_25
+  - first:
+      213: -3268300925675488742
+    second: PlatformAtlas_26
+  - first:
+      213: 7102550097235597554
+    second: PlatformAtlas_27
+  - first:
+      213: 3510142431805685738
+    second: PlatformAtlas_28
+  - first:
+      213: -5619156871054190158
+    second: PlatformAtlas_29
+  - first:
+      213: 6258943866028990071
+    second: PlatformAtlas_30
+  - first:
+      213: 4608570720408668194
+    second: PlatformAtlas_31
+  - first:
+      213: 4388243568335900335
+    second: PlatformAtlas_32
+  - first:
+      213: -717276435925877759
+    second: PlatformAtlas_33
+  - first:
+      213: -7850271122999506891
+    second: PlatformAtlas_34
+  - first:
+      213: 8750637419423871493
+    second: PlatformAtlas_35
+  - first:
+      213: 5735374797923360400
+    second: PlatformAtlas_36
+  - first:
+      213: 85046292087752408
+    second: PlatformAtlas_37
+  - first:
+      213: 1095539212755729517
+    second: PlatformAtlas_38
+  - first:
+      213: 8942846850644145511
+    second: PlatformAtlas_39
+  - first:
+      213: -7289556857046891790
+    second: PlatformAtlas_40
+  - first:
+      213: 3785415997302829125
+    second: PlatformAtlas_41
+  - first:
+      213: 7233841980009240226
+    second: PlatformAtlas_42
+  - first:
+      213: -2354011294045154029
+    second: PlatformAtlas_43
+  - first:
+      213: -8178200596588826021
+    second: PlatformAtlas_44
+  - first:
+      213: -4420190606065925839
+    second: PlatformAtlas_45
+  - first:
+      213: 8957122000793409557
+    second: PlatformAtlas_46
+  - first:
+      213: 123298807074923281
+    second: PlatformAtlas_47
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 51
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PlatformAtlas_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 312
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fd65b14e2473570800000000000000
+      internalID: 8446293173635309412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 313
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb9629d94a60280800000000000000
+      internalID: -9077387002245431468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 313
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb3e6315310e9170800000000000000
+      internalID: 8186982500077026284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 313
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933f378e4d1968d60800000000000000
+      internalID: 7892155740632380217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 313
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084192ce7306f79e0800000000000000
+      internalID: -1621471547528506240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_5
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 319
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7639bed3fb8ba06c0800000000000000
+      internalID: -4176322572915600537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 313
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adba6336fddfc870800000000000000
+      internalID: 8705420654224784805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 313
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f94155acf58a5d0800000000000000
+      internalID: -3051083424928063680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 258
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afb6e0eaca008750800000000000000
+      internalID: 6305051344791584673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_9
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a76afb35b7f60f0800000000000000
+      internalID: -1121542182564103596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 258
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1cb1aae879c44c0800000000000000
+      internalID: -4301896905050570265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_11
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094bb966a9df0f900800000000000000
+      internalID: 716351180340180112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_12
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da2b75a2c298bf10800000000000000
+      internalID: 2285738175588149969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 258
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ac9b1f80fb0770800000000000000
+      internalID: 8578214412691481540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 259
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bcdef392bf24d00800000000000000
+      internalID: 955602225540745984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 259
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a2afcbc1368537e0800000000000000
+      internalID: -1786374128751631709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_16
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 206
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c474a16b68abf03a0800000000000000
+      internalID: -6696929033133078708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 204
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62deb8cc172d3c9b0800000000000000
+      internalID: -5060970170029445850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_18
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 204
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5aee12c89c417d0800000000000000
+      internalID: -2948510252318939660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 195
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204163ceacb26a3d0800000000000000
+      internalID: -3195818735026433022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_20
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 204
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d060ed2fbb325800800000000000000
+      internalID: 599607392688169176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_21
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 204
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ada5413b8a25790800000000000000
+      internalID: -7542780938798048750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 222
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ebcdfe8ed32810800000000000000
+      internalID: 1739478586819864576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_23
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 147
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb133a52b1cf30840800000000000000
+      internalID: 5189268389186711998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_24
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 140
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f70c6491b60353d90800000000000000
+      internalID: -7118730399445499777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_25
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 144
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878b59097f9c09240800000000000000
+      internalID: 4796555668269414520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_26
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 148
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a3802df99a4a2d0800000000000000
+      internalID: -3268300925675488742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_27
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 148
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8d429bea3519260800000000000000
+      internalID: 7102550097235597554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 192
+        width: 52
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefbdc6b1f786b030800000000000000
+      internalID: 3510142431805685738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 134
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b99e9be89eb402b0800000000000000
+      internalID: -5619156871054190158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_30
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 137
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e94cbe84c3cd650800000000000000
+      internalID: 6258943866028990071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 161
+        width: 52
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228893827aee4ff30800000000000000
+      internalID: 4608570720408668194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 79
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faecd86864c26ec30800000000000000
+      internalID: 4388243568335900335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_33
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 99
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c31eeb1e8bb06f0800000000000000
+      internalID: -717276435925877759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_34
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 109
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5388b13910c3e0390800000000000000
+      internalID: -7850271122999506891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_35
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 92
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502300fbe52807970800000000000000
+      internalID: 8750637419423871493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 92
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e13fbcdf4289f40800000000000000
+      internalID: 5735374797923360400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_37
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 129
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6ca5de6252e2100800000000000000
+      internalID: 85046292087752408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_38
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 98
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cf0dd0c13243f00800000000000000
+      internalID: 1095539212755729517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 98
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7657d5554df5b1c70800000000000000
+      internalID: 8942846850644145511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 29
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f205b509aa46da90800000000000000
+      internalID: -7289556857046891790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_41
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 30
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540f0562bcf788430800000000000000
+      internalID: 3785415997302829125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 65
+        width: 37
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a652cb44f4c36460800000000000000
+      internalID: 7233841980009240226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_43
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 37
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3155e2d333fd45fd0800000000000000
+      internalID: -2354011294045154029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 37
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b527f6a23e1318e80800000000000000
+      internalID: -8178200596588826021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_45
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 33
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1310ced101458a2c0800000000000000
+      internalID: -4420190606065925839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_46
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 30
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518902bb0071e4c70800000000000000
+      internalID: 8957122000793409557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlatformAtlas_47
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 33
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1132eec9c9b06b100800000000000000
+      internalID: 123298807074923281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
